@@ -1,0 +1,15 @@
+.mural-jogos
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.jogo
+{
+    width: 350px;
+    height: 300px;
+    padding: 15px;
+    border-radius: 15px;
+    background-color: white;
+    color: black;
+}
